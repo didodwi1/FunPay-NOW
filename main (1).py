@@ -21,7 +21,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN") or "7850802046:AAGV9V1lI0i5KCMPcJkxWHMZnnzyU3
 
 MAIN_MENU_IMAGE_PATH = "https://cdn.corenexis.com/f/ffjou8qrh6C.jpg"
 
-SUPPORT_USERNAME = "@FunPayToHelper"
+SUPPORT_USERNAME = "FunPayToHelper"
 
 OWNER_IDS = {7379181788}
 
