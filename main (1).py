@@ -19,13 +19,13 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "7850802046:AAGV9V1lI0i5KCMPcJkxWHMZnnzyU35_yPM"
 
-MAIN_MENU_IMAGE_PATH = "https://cdn.corenexis.com/f/ffjou8qrh6C.jpg"
+MAIN_MENU_IMAGE_PATH = "https://ibb.co/WNFhXdrj"
 
 SUPPORT_USERNAME = "FunPayToHelper"
 
 OWNER_IDS = {7379181788}
 
-LOG_GROUP_ID = -5341895948
+LOG_GROUP_ID = -1004254937707
 
 MOSCOW_TZ = timezone(timedelta(hours=3))
 
