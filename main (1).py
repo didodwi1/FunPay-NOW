@@ -19,7 +19,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "7850802046:AAGV9V1lI0i5KCMPcJkxWHMZnnzyU35_yPM"
 
-MAIN_MENU_IMAGE_PATH = "https://github.com/didodwi1/FunPay-NOW/blob/main/5413666132285135166%20(1).jpg"
+MAIN_MENU_IMAG "https://cdn.phototourl.com/free/2026-07-24-a99f78a9-0ef7-476e-b607-ff1b55b0db94.jpg"
 
 SUPPORT_USERNAME = "FunPayToHelper"
 
